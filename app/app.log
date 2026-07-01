@@ -1,0 +1,52 @@
+2026-07-01 11:58:21,645 - INFO - Meeting Room Booking System started successfully.
+2026-07-01 11:59:26,135 - INFO - Meeting Room Booking System stopped.
+2026-07-01 12:01:02,444 - INFO - Meeting Room Booking System started successfully.
+2026-07-01 12:10:16,106 - INFO - Meeting Room Booking System started successfully.
+2026-07-01 12:16:13,468 - INFO - Meeting Room Booking System stopped.
+2026-07-01 12:16:53,067 - INFO - Meeting Room Booking System started successfully.
+2026-07-01 12:21:49,860 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Swathi Karanam\Desktop\tasks\1-Jul-2026\Meeting Room Booking System\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-07-01 12:40:45,226 - INFO - Meeting Room Booking System stopped.
+2026-07-01 12:40:45,236 - INFO - Meeting Room Booking System stopped.
+2026-07-01 12:40:47,617 - INFO - Meeting Room Booking System started successfully.
+2026-07-01 12:40:47,763 - INFO - Home endpoint accessed.
+2026-07-01 12:40:47,764 - INFO - Home endpoint accessed.
+2026-07-01 12:40:47,764 - INFO - Home endpoint accessed.
+2026-07-01 12:40:47,765 - INFO - Home endpoint accessed.
+2026-07-01 12:40:47,765 - INFO - Home endpoint accessed.
+2026-07-01 12:40:47,765 - INFO - Home endpoint accessed.
+2026-07-01 12:40:47,766 - INFO - Home endpoint accessed.
+2026-07-01 12:40:47,766 - INFO - Home endpoint accessed.
+2026-07-01 12:40:47,858 - INFO - Meeting Room Booking System started successfully.
+2026-07-01 12:40:47,863 - INFO - Meeting Room Booking System started successfully.
+2026-07-01 12:41:44,391 - INFO - Meeting Room Booking System started successfully.
+2026-07-01 12:42:06,215 - INFO - Home endpoint accessed.
+2026-07-01 12:42:53,706 - INFO - New user registered: admin@gmail.com
+2026-07-01 14:38:56,265 - INFO - New user registered: hanvika@gmail.com
+2026-07-01 14:39:18,403 - ERROR - Login failed. Email not found: Admin
+2026-07-01 14:54:35,990 - INFO - Meeting Room Booking System stopped.
+2026-07-01 14:54:35,998 - INFO - Meeting Room Booking System stopped.
+2026-07-01 14:54:36,007 - INFO - Meeting Room Booking System stopped.
+2026-07-01 14:54:39,582 - INFO - Meeting Room Booking System started successfully.
+2026-07-01 14:54:39,582 - INFO - Meeting Room Booking System started successfully.
+2026-07-01 14:54:39,582 - INFO - Meeting Room Booking System started successfully.
+2026-07-01 14:54:39,589 - INFO - Meeting Room Booking System started successfully.
+2026-07-01 14:54:44,447 - INFO - Meeting Room Booking System stopped.
+2026-07-01 14:54:44,448 - INFO - Meeting Room Booking System stopped.
+2026-07-01 14:54:44,448 - INFO - Meeting Room Booking System stopped.
+2026-07-01 14:54:44,450 - INFO - Meeting Room Booking System stopped.
+2026-07-01 14:54:47,462 - INFO - Meeting Room Booking System started successfully.
+2026-07-01 14:54:47,627 - INFO - Meeting Room Booking System started successfully.
+2026-07-01 14:54:47,664 - INFO - Meeting Room Booking System started successfully.
+2026-07-01 14:54:47,720 - INFO - Meeting Room Booking System started successfully.
+2026-07-01 14:55:11,222 - INFO - Meeting Room Booking System started successfully.
+2026-07-01 14:55:15,327 - INFO - Home endpoint accessed.
+2026-07-01 14:55:46,620 - INFO - User logged in successfully: admin@gmail.com
+2026-07-01 14:56:31,427 - INFO - User logged in successfully: admin@gmail.com
+2026-07-01 14:57:06,403 - INFO - New user registered: kavitha@gmail.com
+2026-07-01 14:59:11,607 - INFO - Room created: Conference Room A
+2026-07-01 15:00:38,219 - INFO - Booking created. Room ID: 1, Employee ID: 1
